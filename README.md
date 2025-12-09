@@ -4,7 +4,7 @@ This repo contains Kubernetes manifests and Docker setup for deploying a Reddit 
 
 ## Prerequisites
 
-Before you begin, you should have the following tools installed on your local machine:
+Before you begin, you should have the following tools installed either on your local machine or in a AWS EC2 Instance:
 
     Docker
     Minikube cluster ( Running )
