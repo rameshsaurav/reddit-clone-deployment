@@ -14,7 +14,7 @@ Before you begin, you should have the following tools installed on your local ma
 
 ## Steps to Deploy
 
-### 1. Clone this repository and go to project root folder.
+### 1.** Clone this repository and go to project root folder.**
 
 ### 2. Login to Docker. Then, Build an Image from Dockerfile by running `docker build -t reddit-clone .` . To verify image, run `docker images`. 
 
